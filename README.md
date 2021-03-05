@@ -7,8 +7,8 @@ A bot to get random quotes on request.
 ## Table of Contents
 
 * [Features](#features)
-* [Ping Bot](#Ping Bot)
-* [Build With](#Build With)
+* [Ping Bot](#Ping-Bot)
+* [Build With](#Build-With)
 * [Installation](#installation)
 * [License](#License)
 * [Contributing](#contributing)
@@ -23,6 +23,7 @@ A bot to get random quotes on request.
 
 # Ping Bot
 ### Bot  URL: `https://https//t.me/quotesrandombot`
+
 
 
 # Built With
@@ -55,7 +56,7 @@ Feel free to submit a pull request or an issue!
 
 # Contact
 
-Your Name - [@TarunVerma111](https://twitter.com/TarunVerma111) - tarunverma730@gmail.com
+[@TarunVerma111](https://twitter.com/TarunVerma111) - tarunverma730@gmail.com
 
 Project Link: [https://github.com/ta-verma/Quotes-Telegram-Bot](https://github.com/ta-verma/Quotes-Telegram-Bot)
 
