@@ -4,7 +4,7 @@ import qoutes as qt
 
 PORT = int(os.environ.get('PORT', 5000))
 
-TOKEN = '1223365733:AAF67XB-0X1MdIsK1rMUaY9E9soVOFLIiqQ'
+TOKEN = 'Place TOKEN Here'
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                     level=logging.INFO)
