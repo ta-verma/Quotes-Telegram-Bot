@@ -18,11 +18,12 @@ A bot to get random quotes on request.
 
 * Quotes
   * Quotes
-  * Writer
+  * Quotes Writer (Quotee)
 
 
 # Ping Bot
 ### Bot  URL: `https://https//t.me/quotesrandombot`
+[Click Here to ping ](https://https//t.me/quotesrandombot)
 
 
 
