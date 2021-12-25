@@ -5,7 +5,7 @@ A bot to get random quotes on request.
 
 
 ## Table of Contents
-
+https://github.com/erezposner/deep-image-priorhttps://github.com/erezposner/deep-image-prior
 * [Features](#features)
 * [Ping Bot](#Ping-Bot)
 * [Build With](#Build-With)
@@ -22,7 +22,7 @@ A bot to get random quotes on request.
 
 
 # Ping Bot
-### Bot  URL: `https://https//t.me/quotesrandombot`
+### Bot  URL: `https://t.me/quotesrandombot`
 [Click Here to ping ](https://https//t.me/quotesrandombot)
 
 
