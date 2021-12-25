@@ -25,7 +25,7 @@ A bot to get random quotes on request.
 ### Bot  URL: `https://t.me/quotesrandombot`
 [Click Here to ping ](https://https//t.me/quotesrandombot)
 
-![Demo](https://github.com/ta-verma/Quotes-Telegram-Bot/blob/main/Extra/bot.png?raw=true)
+<img src="https://github.com/ta-verma/Quotes-Telegram-Bot/blob/main/Extra/bot.png?raw=true" data-canonical-src="https://github.com/ta-verma/Quotes-Telegram-Bot/blob/main/Extra/bot.png?raw=true" width="300" height="500" />
 
 # Built With
 
